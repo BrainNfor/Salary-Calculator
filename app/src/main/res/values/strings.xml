@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EmployeeSalaryCalculator</string>
+    <string name="app_tittle">EMPLOYEE CALCULATION SYSTEM</string>
+    <string name="emp_name">Employee Name:</string>
+    <string name="emp_salary">Employee Salary:</string>
+    <string name="emp_tax">Employee Tax:</string>
+    <string name="emp_netSalary">Net Salary:</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+
+
+
+</resources>
